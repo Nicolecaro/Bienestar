@@ -1,0 +1,10 @@
+streamlit
+mapclassify==2.6.1
+matplotlib
+geopandas
+pandas 
+numpy 
+plotly.express
+seaborn
+geopandas
+
